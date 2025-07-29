@@ -31,7 +31,6 @@ File Name	Description
 
 ---
 📷 Preview
-!([Uploading snapshot2.png…])
 <img width="1060" height="602" alt="snapshot2" src="https://github.com/user-attachments/assets/8358bcc0-192c-4c57-b945-cc169a1eb502" /># dashboards-by-leen
 
 ---
@@ -76,6 +75,7 @@ GitHub (for version control and hosting)
 
 Gurleen Kaur Alag
 💼 LinkedIn (https://www.linkedin.com/in/gurleen-kaur-alag-442675345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 🐱 GitHub: Gurleenalag
 
 ---
