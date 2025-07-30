@@ -98,7 +98,7 @@ The snapshot gives a quick glimpse into the full interactive dashboard.
 
 ------------
 
-**SKIE DASHBOARD**
+**SKI DASHBOARD**
 
 ⛄❄ Gurleen's Snowy Analytics – Power BI Dashboard ⛄❄
 
