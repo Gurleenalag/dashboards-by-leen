@@ -1,5 +1,61 @@
+**1ST DASHBOARD**
+
+📊 Power BI Dashboard: Order and Sales Insights
+This Power BI dashboard provides an interactive and analytical view of sales and order data using two core tables: Details and Orders.
+
+📁 Project Structure
+leen_dashboard1.pbix: Main Power BI dashboard file.
+details.csv: Includes Order ID, Amount, Profit, Quantity, Category, Subcategory, and Payment Mode.
+orders.csv: Includes Order ID, Order Date, Customer, State, and City.
+screenshots/: Contains preview images of the dashboard.
+README.md: Project documentation (this file).
+
+🔍 Dashboard Features
+
+From the Details Table:
+💵 Total Sales (Amount)
+📈 Profit Analysis
+📦 Quantity Sold
+🛍 Category and Subcategory-wise Breakdown
+💳 Payment Mode Distribution
+
+From the Orders Table:
+🧾 Order Timeline (by Date)
+👤 Customer Overview
+🌍 Geographic Distribution (States & Cities)
+🔁 Order Trends Over Time
+
+Combined Insights:
+operations on my dashboard ¹ ²:
+
+Sales Metrics Tracking: Monitored total sales, profit, and customer demographics.
+Data Visualization: Used charts and graphs to show sales by category and payment method.
+Geographic Analysis: Analyzed sales by state and region.
+Customer Insights: Tracked customer behavior and purchase history.
+Product Performance: Evaluated best-selling products and low-performing products.
+Temporal Analysis: Monitored sales trends over time.
+These operations enable you to make data-driven decisions, optimize sales strategies, and improve customer satisfaction.
+
+📸 Dashboard Preview
+![Preview]<img width="986" height="566" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/4a31c414-7d6c-4fa7-8311-ed841960902e" />
+
+
+🧰 Tools Used
+Microsoft Power BI
+Microsoft Excel / CSV for data
+GitHub for project sharing
+▶ How to Use
+Download leen_dashboard1.pbix
+Open it in Power BI Desktop
+Load your dataset if required or explore with sample data
+Created with 💡 by [Gurleen Kaur]
+
+
+
 ---
-❄ Gurleen's Snowy Analytics – Power BI Dashboard
+**2ND DASHBOARD**
+
+⛄❄ Gurleen's Snowy Analytics – Power BI Dashboard ⛄❄
 
 📊 Project Overview
 Gurleen's Snowy Analytics is an interactive Power BI dashboard that visualizes ski resort data across various countries. It provides a dynamic and insightful look into resort features such as slopes, lift capacity, pricing, and snowpark distributions.
