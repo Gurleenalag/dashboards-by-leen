@@ -109,15 +109,7 @@ Gurleen's Snowy Analytics is an interactive Power BI dashboard that visualizes s
 ---
 📌 Key Highlights
 
-✅ Clean, intuitive UI with a snowy theme
-🌍 Country-based Slicer for focused analysis
-📅 Seasonal trend insights
-📈 Visuals include:
-Line charts
-Treemaps
-Pie (donut) charts
-Bar charts
-💡 KPIs like Total Slopes, Lift Capacity, Price, etc.
+✅ Clean, intuitive UI with a snowy theme 🌍 Country-based Slicer for focused analysis 📅 Seasonal trend insights 📈 Visuals include: Line charts Treemaps Pie (donut) charts Bar charts 💡 KPIs like Total Slopes, Lift Capacity, Price, etc.
 ---
 
 📁 Files Included
