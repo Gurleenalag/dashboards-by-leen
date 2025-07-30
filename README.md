@@ -53,7 +53,55 @@ Created with 💡 by [Gurleen Kaur]
 
 
 ---
-**2ND DASHBOARD**
+Here’s the updated README.md file with the “How to Use” and “Repository Structure” sections removed:
+
+
+---
+
+**🎵 Spotify Streaming Insights Dashboard**
+This repository contains a visually engaging Power BI dashboard showcasing streaming insights from Spotify data. The dashboard provides a comprehensive view of the most streamed tracks, top artists, genre trends, and more.
+
+
+
+📊 Dashboard Highlights
+
+Top 10 Streamed Songs
+A horizontal bar chart ranking the ten most streamed tracks.
+Streaming Trends by Genre and Artist
+A line graph summarizing the streams based on different genres and artists over time.
+KPIs & Key Metrics
+Total number of artists: 43
+Highest rank: 49
+Most streamed track count: 49
+Songs per trend type (shown with a donut chart)
+Featured Artist Section
+A visual display of the most streamed artist with their image.
+Spotify Branding and Theme
+Clean dark theme with Spotify green highlights for better visibility and brand representation.
+
+
+🛠 Tools Used
+
+Power BI (for dashboard creation and data visualization)
+Data source: Spotify streaming dataset
+
+
+🧠 Purpose
+This dashboard is created to demonstrate skills in data storytelling using Power BI, with a focus on the music industry. It's a perfect example of combining interactive visuals with insightful data.
+
+📸 Preview
+
+<img width="1061" height="619" alt="snapshot3" src="https://github.com/user-attachments/assets/30f794ec-0463-40e9-af4d-bd5fce759fb8" />
+
+The snapshot gives a quick glimpse into the full interactive dashboard.
+
+
+------------
+
+
+------------
+
+**SKIE DASHBOARD**
 
 ⛄❄ Gurleen's Snowy Analytics – Power BI Dashboard ⛄❄
 
