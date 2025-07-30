@@ -51,12 +51,9 @@ Load your dataset if required or explore with sample data
 Created with 💡 by [Gurleen Kaur]
 
 
+----------
 
----
-Here’s the updated README.md file with the “How to Use” and “Repository Structure” sections removed:
-
-
----
+----------
 
 **🎵 Spotify Streaming Insights Dashboard**
 This repository contains a visually engaging Power BI dashboard showcasing streaming insights from Spotify data. The dashboard provides a comprehensive view of the most streamed tracks, top artists, genre trends, and more.
